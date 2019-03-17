@@ -25,3 +25,5 @@ Wordpress page is hosted on the Raspberry Pi  locally on the house wifi network.
 
 Hope you enjoyed this! mattthechef
 
+Test the fech command. 
+
