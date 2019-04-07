@@ -23,6 +23,6 @@ cursor = mariadb_connection.cursor()
 
 
 while True: 
-	data = bus.read_byte_data(DEVICE_ADDR,0)
+	data = bus.read_byte_data(DEVICE_ADDR,0)	#read data from bus at DEVICE_ADDR
 	print(data)
 	t.sleep(1)
