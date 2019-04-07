@@ -2,14 +2,14 @@ You have found my home automation project. This project is oriented around tinke
 many different home automation senors. This project will continue to evolve as I continue to tinker. Thanks for chekcing out my project!
 
 Hardware: 
-Raspberry Pi 3 B      Central mircocomputer
-Arduino Uno           Mirco controller 
-TMP36                 Temperature Sensor 
+Raspberry Pi 3 B:      Central mircocomputer
+Arduino Uno:           Mirco controller 
+TMP36:                 Temperature Sensor 
 
 Technology: 
-Apache 2.4.25 (Raspbian)   Used as web server 
-MariaDB 10.2.23		         SQL database 
-Wordpress		               Content management
+Apache 2.4.25 (Raspbian):   Used as web server 
+MariaDB 10.2.23:		         SQL database 
+Wordpress:		               Content management
 
 Summary:
 Raspberry pi used to host web server and databse to store temperature data. 
